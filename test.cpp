@@ -12,4 +12,4 @@ public:
         x++;
     }
     void operator=(const A& a1) {}
-}
+};
